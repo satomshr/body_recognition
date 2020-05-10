@@ -1,2 +1,2 @@
 # body_recognition
-Body recognition with Python/OpenCV
+Trying to recognize human body with Python/OpenCV
