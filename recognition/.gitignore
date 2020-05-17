@@ -1,0 +1,6 @@
+# All jpg file are ignored except "left_hand.jpg"
+*.jpg
+!left_hand.jpg
+
+# at now, cascade.xml is ignored
+cascade.xml
